@@ -1,6 +1,18 @@
+
+## App Description
+
+1. To open and execute the assignment, copy the src folder and paste it inside any folder created on the desktop(or anywhere on your system).
+2. Go to the folder path and type CMD. Open the terminal and type 'code .', this will take you to the code base of the project in VS-Code.
+3. Open terminal in VS code and type 'npm i'. This will help to install the node modules in that specific folder, which in turn will assist to execute this assignment seamlessly on the localhost.
+4. On initial render of the component, name and email-id will be displayed.
+5. On click of the button "Next User", any following random user from API will be displayed and respective details will be stored in the local storage.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
